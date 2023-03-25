@@ -279,8 +279,12 @@ h4{
         border-radius: 15px;
     }
     .ittem1{
+
+        background-image: url(/img/Layer/Image.png);
         right: 5.5rem;
         bottom: 5.5rem;
+        background-size:cover;
+        background-repeat: no-repeat;
     }
     .ittem2{
         width: 17rem;
@@ -361,9 +365,12 @@ text-fill-color: transparent;
         border-radius: 15px;
     }
     .plus1{
+
+        background-image: url(/img/Layer/Image\ \(1\).png);
         left: 5.5rem;
         top: 5.5rem;
-    }
+  
+  background-size:cover;  }
     .plus2{
         width: 17rem;
         height: 17rem;
